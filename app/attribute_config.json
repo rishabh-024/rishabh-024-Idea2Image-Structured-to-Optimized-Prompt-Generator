@@ -1,0 +1,8 @@
+{
+  "subjects": ["person", "landscape", "castle", "car", "product", "animal"],
+  "styles": ["photorealistic", "illustration", "concept art", "watercolor", "pixel art"],
+  "lighting": ["sunset", "noon", "studio", "cinematic", "neon"],
+  "camera": ["wide-angle", "telephoto", "macro", "portrait", "aerial"],
+  "moods": ["mysterious", "joyful", "melancholic", "epic", "calm"],
+  "palettes": ["warm", "cool", "monochrome", "vibrant", "pastel"]
+}
